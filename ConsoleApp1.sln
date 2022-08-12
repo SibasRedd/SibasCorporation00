@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{21041C0F-D8D3-4C6C-BA98-F4EE4EAB7036}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{D07BF512-2D54-4EA1-A815-6B0EC0C9451C}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\rootCA.crt = ..\..\..\Downloads\rootCA.crt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21041C0F-D8D3-4C6C-BA98-F4EE4EAB7036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21041C0F-D8D3-4C6C-BA98-F4EE4EAB7036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21041C0F-D8D3-4C6C-BA98-F4EE4EAB7036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21041C0F-D8D3-4C6C-BA98-F4EE4EAB7036}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F515C99-705C-42A6-B53A-E066D781EC08}
+	EndGlobalSection
+EndGlobal
